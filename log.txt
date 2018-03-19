@@ -1,0 +1,542 @@
+Exception [Fri Mar 16 08:31:33 2018]. From teamspider.py --> __init__
+
+Exception [Fri Mar 16 08:31:33 2018]. From teamspider.py --> run
+
+Exception [Fri Mar 16 08:32:23 2018]. From databaseconn.py --> connect
+
+Exception [Fri Mar 16 08:32:23 2018]. From teamspider.py --> run
+
+Exception [Fri Mar 16 08:33:38 2018]. From databaseconn.py --> connect
+
+Exception [Fri Mar 16 08:33:38 2018]. From teamspider.py --> run
+
+Exception [Fri Mar 16 09:02:59 2018]. From databaseconn.py --> connect
+
+Exception [Fri Mar 16 09:02:59 2018]. From teamspider.py --> run
+
+Exception [Fri Mar 16 09:03:26 2018]. From databaseconn.py --> connect
+
+Exception [Fri Mar 16 09:03:26 2018]. From teamspider.py --> run
+
+Exception [Fri Mar 16 09:06:12 2018]. From databaseconn.py --> connect : None
+
+Exception [Fri Mar 16 09:07:24 2018]. From teamspider.py --> run : 65
+
+Exception [Fri Mar 16 09:11:33 2018]. From teamspider.py --> run : 65
+
+Exception [Fri Mar 16 09:12:23 2018]. From teamspider.py --> run : 65
+
+Exception [Fri Mar 16 09:12:48 2018]. From teamspider.py --> run : 65
+
+Exception [Fri Mar 16 09:13:13 2018]. From teamspider.py --> run : 65
+
+Exception [Fri Mar 16 09:19:14 2018]. From teamspider.py --> run : 65
+
+Exception [Fri Mar 16 14:32:14 2018]. From databaseconn.py --> connect : None
+
+Exception [Fri Mar 16 14:32:14 2018]. From teamspider.py --> run : 65
+
+Exception [Fri Mar 16 14:33:00 2018]. From databaseconn.py --> connect : None
+
+Exception [Fri Mar 16 14:33:00 2018]. From teamspider.py --> run : 65
+
+Exception [Fri Mar 16 14:36:25 2018]. From teamspider.py --> run : 65
+
+Exception [Fri Mar 16 16:27:07 2018]. From GameSpider.py --> run : None
+
+Exception [Fri Mar 16 16:27:10 2018]. From GameSpider.py --> run : None
+
+Exception [Fri Mar 16 16:30:53 2018]. From GameSpider.py --> run : None
+
+Exception [Fri Mar 16 16:30:58 2018]. From GameSpider.py --> run : None
+
+Exception [Mon Mar 19 09:39:42 2018]. From databaseconn.py --> connect : None
+
+Exception [Mon Mar 19 09:40:17 2018]. From databaseconn.py --> connect : None
+
+Exception [Mon Mar 19 09:40:51 2018]. From databaseconn.py --> connect : None
+
+Exception [Mon Mar 19 09:41:24 2018]. From databaseconn.py --> connect : None
+
+Exception [Mon Mar 19 15:06:34 2018]. From GameSpider.py --> run : 0021100991
+
+Exception [Mon Mar 19 15:06:37 2018]. From GameSpider.py --> run : 0021100992
+
+Exception [Mon Mar 19 15:06:38 2018]. From GameSpider.py --> run : 0021100993
+
+Exception [Mon Mar 19 15:06:40 2018]. From GameSpider.py --> run : 0021100994
+
+Exception [Mon Mar 19 15:06:43 2018]. From GameSpider.py --> run : 0021100995
+
+Exception [Mon Mar 19 15:06:45 2018]. From GameSpider.py --> run : 0021100996
+
+Exception [Mon Mar 19 15:06:47 2018]. From GameSpider.py --> run : 0021100997
+
+Exception [Mon Mar 19 15:06:49 2018]. From GameSpider.py --> run : 0021100998
+
+Exception [Mon Mar 19 15:06:51 2018]. From GameSpider.py --> run : 0021100999
+
+Exception [Mon Mar 19 15:06:52 2018]. From GameSpider.py --> run : 0021101000
+
+Exception [Mon Mar 19 15:06:54 2018]. From GameSpider.py --> run : 0021101001
+
+Exception [Mon Mar 19 15:06:56 2018]. From GameSpider.py --> run : 0021101002
+
+Exception [Mon Mar 19 15:06:57 2018]. From GameSpider.py --> run : 0021101003
+
+Exception [Mon Mar 19 15:06:59 2018]. From GameSpider.py --> run : 0021101004
+
+Exception [Mon Mar 19 15:07:03 2018]. From GameSpider.py --> run : 0021101005
+
+Exception [Mon Mar 19 15:07:06 2018]. From GameSpider.py --> run : 0021101006
+
+Exception [Mon Mar 19 15:07:08 2018]. From GameSpider.py --> run : 0021101007
+
+Exception [Mon Mar 19 15:07:09 2018]. From GameSpider.py --> run : 0021101008
+
+Exception [Mon Mar 19 15:07:11 2018]. From GameSpider.py --> run : 0021101009
+
+Exception [Mon Mar 19 15:07:15 2018]. From GameSpider.py --> run : 0021101010
+
+Exception [Mon Mar 19 15:07:17 2018]. From GameSpider.py --> run : 0021101011
+
+Exception [Mon Mar 19 15:07:18 2018]. From GameSpider.py --> run : 0021101012
+
+Exception [Mon Mar 19 15:07:20 2018]. From GameSpider.py --> run : 0021101013
+
+Exception [Mon Mar 19 15:07:22 2018]. From GameSpider.py --> run : 0021101014
+
+Exception [Mon Mar 19 15:07:23 2018]. From GameSpider.py --> run : 0021101015
+
+Exception [Mon Mar 19 15:07:25 2018]. From GameSpider.py --> run : 0021101016
+
+Exception [Mon Mar 19 15:07:27 2018]. From GameSpider.py --> run : 0021101017
+
+Exception [Mon Mar 19 15:07:28 2018]. From GameSpider.py --> run : 0021101018
+
+Exception [Mon Mar 19 15:07:30 2018]. From GameSpider.py --> run : 0021101019
+
+Exception [Mon Mar 19 15:07:32 2018]. From GameSpider.py --> run : 0021101020
+
+Exception [Mon Mar 19 15:07:36 2018]. From GameSpider.py --> run : 0021101021
+
+Exception [Mon Mar 19 15:07:38 2018]. From GameSpider.py --> run : 0021101022
+
+Exception [Mon Mar 19 15:07:40 2018]. From GameSpider.py --> run : 0021101023
+
+Exception [Mon Mar 19 15:07:41 2018]. From GameSpider.py --> run : 0021101024
+
+Exception [Mon Mar 19 15:07:43 2018]. From GameSpider.py --> run : 0021101025
+
+Exception [Mon Mar 19 15:07:46 2018]. From GameSpider.py --> run : 0021101026
+
+Exception [Mon Mar 19 15:07:47 2018]. From GameSpider.py --> run : 0021101027
+
+Exception [Mon Mar 19 15:07:49 2018]. From GameSpider.py --> run : 0021101028
+
+Exception [Mon Mar 19 15:07:51 2018]. From GameSpider.py --> run : 0021101029
+
+Exception [Mon Mar 19 15:07:53 2018]. From GameSpider.py --> run : 0021101030
+
+Exception [Mon Mar 19 15:07:55 2018]. From GameSpider.py --> run : 0021101031
+
+Exception [Mon Mar 19 15:07:57 2018]. From GameSpider.py --> run : 0021101032
+
+Exception [Mon Mar 19 15:07:58 2018]. From GameSpider.py --> run : 0021101033
+
+Exception [Mon Mar 19 15:08:00 2018]. From GameSpider.py --> run : 0021101034
+
+Exception [Mon Mar 19 15:08:02 2018]. From GameSpider.py --> run : 0021101035
+
+Exception [Mon Mar 19 15:08:04 2018]. From GameSpider.py --> run : 0021101036
+
+Exception [Mon Mar 19 15:08:06 2018]. From GameSpider.py --> run : 0021101037
+
+Exception [Mon Mar 19 15:08:07 2018]. From GameSpider.py --> run : 0021101038
+
+Exception [Mon Mar 19 15:08:09 2018]. From GameSpider.py --> run : 0021101039
+
+Exception [Mon Mar 19 15:08:12 2018]. From GameSpider.py --> run : 0021101040
+
+Exception [Mon Mar 19 15:08:13 2018]. From GameSpider.py --> run : 0021101041
+
+Exception [Mon Mar 19 15:08:15 2018]. From GameSpider.py --> run : 0021101042
+
+Exception [Mon Mar 19 15:08:18 2018]. From GameSpider.py --> run : 0021101043
+
+Exception [Mon Mar 19 15:08:20 2018]. From GameSpider.py --> run : 0021101044
+
+Exception [Mon Mar 19 15:08:24 2018]. From GameSpider.py --> run : 0021101045
+
+Exception [Mon Mar 19 15:08:25 2018]. From GameSpider.py --> run : 0021101046
+
+Exception [Mon Mar 19 15:08:27 2018]. From GameSpider.py --> run : 0021101047
+
+Exception [Mon Mar 19 15:08:32 2018]. From GameSpider.py --> run : 0021101048
+
+Exception [Mon Mar 19 15:08:34 2018]. From GameSpider.py --> run : 0021101049
+
+Exception [Mon Mar 19 15:08:36 2018]. From GameSpider.py --> run : 0021101050
+
+Exception [Mon Mar 19 15:08:38 2018]. From GameSpider.py --> run : 0021101051
+
+Exception [Mon Mar 19 15:08:39 2018]. From GameSpider.py --> run : 0021101052
+
+Exception [Mon Mar 19 15:08:42 2018]. From GameSpider.py --> run : 0021101053
+
+Exception [Mon Mar 19 15:08:43 2018]. From GameSpider.py --> run : 0021101054
+
+Exception [Mon Mar 19 15:08:47 2018]. From GameSpider.py --> run : 0021101055
+
+Exception [Mon Mar 19 15:08:48 2018]. From GameSpider.py --> run : 0021101056
+
+Exception [Mon Mar 19 15:08:50 2018]. From GameSpider.py --> run : 0021101057
+
+Exception [Mon Mar 19 15:08:53 2018]. From GameSpider.py --> run : 0021101058
+
+Exception [Mon Mar 19 15:08:54 2018]. From GameSpider.py --> run : 0021101059
+
+Exception [Mon Mar 19 15:08:56 2018]. From GameSpider.py --> run : 0021101060
+
+Exception [Mon Mar 19 15:08:59 2018]. From GameSpider.py --> run : 0021101061
+
+Exception [Mon Mar 19 15:09:01 2018]. From GameSpider.py --> run : 0021101062
+
+Exception [Mon Mar 19 15:09:03 2018]. From GameSpider.py --> run : 0021101063
+
+Exception [Mon Mar 19 15:09:05 2018]. From GameSpider.py --> run : 0021101064
+
+Exception [Mon Mar 19 15:09:06 2018]. From GameSpider.py --> run : 0021101065
+
+Exception [Mon Mar 19 15:09:08 2018]. From GameSpider.py --> run : 0021101066
+
+Exception [Mon Mar 19 15:09:11 2018]. From GameSpider.py --> run : 0021101067
+
+Exception [Mon Mar 19 15:09:12 2018]. From GameSpider.py --> run : 0021101068
+
+Exception [Mon Mar 19 15:09:14 2018]. From GameSpider.py --> run : 0021101069
+
+Exception [Mon Mar 19 15:09:16 2018]. From GameSpider.py --> run : 0021101070
+
+Exception [Mon Mar 19 15:09:18 2018]. From GameSpider.py --> run : 0021101071
+
+Exception [Mon Mar 19 15:09:19 2018]. From GameSpider.py --> run : 0021101072
+
+Exception [Mon Mar 19 15:09:21 2018]. From GameSpider.py --> run : 0021101073
+
+Exception [Mon Mar 19 15:09:23 2018]. From GameSpider.py --> run : 0021101074
+
+Exception [Mon Mar 19 15:09:26 2018]. From GameSpider.py --> run : 0021101075
+
+Exception [Mon Mar 19 15:09:29 2018]. From GameSpider.py --> run : 0021101076
+
+Exception [Mon Mar 19 15:09:33 2018]. From GameSpider.py --> run : 0021101077
+
+Exception [Mon Mar 19 15:09:34 2018]. From GameSpider.py --> run : 0021101078
+
+Exception [Mon Mar 19 15:09:36 2018]. From GameSpider.py --> run : 0021101079
+
+Exception [Mon Mar 19 15:09:38 2018]. From GameSpider.py --> run : 0021101080
+
+Exception [Mon Mar 19 15:09:39 2018]. From GameSpider.py --> run : 0021101081
+
+Exception [Mon Mar 19 15:09:41 2018]. From GameSpider.py --> run : 0021101082
+
+Exception [Mon Mar 19 15:09:44 2018]. From GameSpider.py --> run : 0021101083
+
+Exception [Mon Mar 19 15:09:45 2018]. From GameSpider.py --> run : 0021101084
+
+Exception [Mon Mar 19 15:09:47 2018]. From GameSpider.py --> run : 0021101085
+
+Exception [Mon Mar 19 15:09:49 2018]. From GameSpider.py --> run : 0021101086
+
+Exception [Mon Mar 19 15:09:51 2018]. From GameSpider.py --> run : 0021101087
+
+Exception [Mon Mar 19 15:09:53 2018]. From GameSpider.py --> run : 0021101088
+
+Exception [Mon Mar 19 15:09:55 2018]. From GameSpider.py --> run : 0021101089
+
+Exception [Mon Mar 19 15:09:57 2018]. From GameSpider.py --> run : 0021101090
+
+Exception [Mon Mar 19 15:09:59 2018]. From GameSpider.py --> run : 0021101091
+
+Exception [Mon Mar 19 15:10:00 2018]. From GameSpider.py --> run : 0021101092
+
+Exception [Mon Mar 19 15:10:02 2018]. From GameSpider.py --> run : 0021101093
+
+Exception [Mon Mar 19 15:10:04 2018]. From GameSpider.py --> run : 0021101094
+
+Exception [Mon Mar 19 15:10:06 2018]. From GameSpider.py --> run : 0021101095
+
+Exception [Mon Mar 19 15:10:07 2018]. From GameSpider.py --> run : 0021101096
+
+Exception [Mon Mar 19 15:10:09 2018]. From GameSpider.py --> run : 0021101097
+
+Exception [Mon Mar 19 15:10:11 2018]. From GameSpider.py --> run : 0021101098
+
+Exception [Mon Mar 19 15:10:12 2018]. From GameSpider.py --> run : 0021101099
+
+Exception [Mon Mar 19 15:10:14 2018]. From GameSpider.py --> run : 0021101100
+
+Exception [Mon Mar 19 15:10:16 2018]. From GameSpider.py --> run : 0021101101
+
+Exception [Mon Mar 19 15:10:17 2018]. From GameSpider.py --> run : 0021101102
+
+Exception [Mon Mar 19 15:10:19 2018]. From GameSpider.py --> run : 0021101103
+
+Exception [Mon Mar 19 15:10:22 2018]. From GameSpider.py --> run : 0021101104
+
+Exception [Mon Mar 19 15:10:23 2018]. From GameSpider.py --> run : 0021101105
+
+Exception [Mon Mar 19 15:10:26 2018]. From GameSpider.py --> run : 0021101106
+
+Exception [Mon Mar 19 15:10:29 2018]. From GameSpider.py --> run : 0021101107
+
+Exception [Mon Mar 19 15:10:31 2018]. From GameSpider.py --> run : 0021101108
+
+Exception [Mon Mar 19 15:10:33 2018]. From GameSpider.py --> run : 0021101109
+
+Exception [Mon Mar 19 15:10:36 2018]. From GameSpider.py --> run : 0021101110
+
+Exception [Mon Mar 19 15:10:37 2018]. From GameSpider.py --> run : 0021101111
+
+Exception [Mon Mar 19 15:10:39 2018]. From GameSpider.py --> run : 0021101112
+
+Exception [Mon Mar 19 15:10:41 2018]. From GameSpider.py --> run : 0021101113
+
+Exception [Mon Mar 19 15:10:43 2018]. From GameSpider.py --> run : 0021101114
+
+Exception [Mon Mar 19 15:10:45 2018]. From GameSpider.py --> run : 0021101115
+
+Exception [Mon Mar 19 15:10:48 2018]. From GameSpider.py --> run : 0021101116
+
+Exception [Mon Mar 19 15:10:50 2018]. From GameSpider.py --> run : 0021101117
+
+Exception [Mon Mar 19 15:10:53 2018]. From GameSpider.py --> run : 0021101118
+
+Exception [Mon Mar 19 15:10:55 2018]. From GameSpider.py --> run : 0021101119
+
+Exception [Mon Mar 19 15:10:56 2018]. From GameSpider.py --> run : 0021101120
+
+Exception [Mon Mar 19 15:10:58 2018]. From GameSpider.py --> run : 0021101121
+
+Exception [Mon Mar 19 15:11:01 2018]. From GameSpider.py --> run : 0021101122
+
+Exception [Mon Mar 19 15:11:02 2018]. From GameSpider.py --> run : 0021101123
+
+Exception [Mon Mar 19 15:11:05 2018]. From GameSpider.py --> run : 0021101124
+
+Exception [Mon Mar 19 15:11:07 2018]. From GameSpider.py --> run : 0021101125
+
+Exception [Mon Mar 19 15:11:08 2018]. From GameSpider.py --> run : 0021101126
+
+Exception [Mon Mar 19 15:11:10 2018]. From GameSpider.py --> run : 0021101127
+
+Exception [Mon Mar 19 15:11:12 2018]. From GameSpider.py --> run : 0021101128
+
+Exception [Mon Mar 19 15:11:13 2018]. From GameSpider.py --> run : 0021101129
+
+Exception [Mon Mar 19 15:11:15 2018]. From GameSpider.py --> run : 0021101130
+
+Exception [Mon Mar 19 15:11:18 2018]. From GameSpider.py --> run : 0021101131
+
+Exception [Mon Mar 19 15:11:20 2018]. From GameSpider.py --> run : 0021101132
+
+Exception [Mon Mar 19 15:11:21 2018]. From GameSpider.py --> run : 0021101133
+
+Exception [Mon Mar 19 15:11:23 2018]. From GameSpider.py --> run : 0021101134
+
+Exception [Mon Mar 19 15:11:26 2018]. From GameSpider.py --> run : 0021101135
+
+Exception [Mon Mar 19 15:11:28 2018]. From GameSpider.py --> run : 0021101136
+
+Exception [Mon Mar 19 15:11:29 2018]. From GameSpider.py --> run : 0021101137
+
+Exception [Mon Mar 19 15:11:31 2018]. From GameSpider.py --> run : 0021101138
+
+Exception [Mon Mar 19 15:11:34 2018]. From GameSpider.py --> run : 0021101139
+
+Exception [Mon Mar 19 15:11:37 2018]. From GameSpider.py --> run : 0021101140
+
+Exception [Mon Mar 19 15:11:38 2018]. From GameSpider.py --> run : 0021101141
+
+Exception [Mon Mar 19 15:11:40 2018]. From GameSpider.py --> run : 0021101142
+
+Exception [Mon Mar 19 15:11:42 2018]. From GameSpider.py --> run : 0021101143
+
+Exception [Mon Mar 19 15:11:43 2018]. From GameSpider.py --> run : 0021101144
+
+Exception [Mon Mar 19 15:11:45 2018]. From GameSpider.py --> run : 0021101145
+
+Exception [Mon Mar 19 15:11:47 2018]. From GameSpider.py --> run : 0021101146
+
+Exception [Mon Mar 19 15:11:49 2018]. From GameSpider.py --> run : 0021101147
+
+Exception [Mon Mar 19 15:11:51 2018]. From GameSpider.py --> run : 0021101148
+
+Exception [Mon Mar 19 15:11:53 2018]. From GameSpider.py --> run : 0021101149
+
+Exception [Mon Mar 19 15:11:54 2018]. From GameSpider.py --> run : 0021101150
+
+Exception [Mon Mar 19 15:11:56 2018]. From GameSpider.py --> run : 0021101151
+
+Exception [Mon Mar 19 15:11:58 2018]. From GameSpider.py --> run : 0021101152
+
+Exception [Mon Mar 19 15:12:00 2018]. From GameSpider.py --> run : 0021101153
+
+Exception [Mon Mar 19 15:12:02 2018]. From GameSpider.py --> run : 0021101154
+
+Exception [Mon Mar 19 15:12:05 2018]. From GameSpider.py --> run : 0021101155
+
+Exception [Mon Mar 19 15:12:07 2018]. From GameSpider.py --> run : 0021101156
+
+Exception [Mon Mar 19 15:12:09 2018]. From GameSpider.py --> run : 0021101157
+
+Exception [Mon Mar 19 15:12:11 2018]. From GameSpider.py --> run : 0021101158
+
+Exception [Mon Mar 19 15:12:15 2018]. From GameSpider.py --> run : 0021101159
+
+Exception [Mon Mar 19 15:12:17 2018]. From GameSpider.py --> run : 0021101160
+
+Exception [Mon Mar 19 15:12:18 2018]. From GameSpider.py --> run : 0021101161
+
+Exception [Mon Mar 19 15:12:20 2018]. From GameSpider.py --> run : 0021101162
+
+Exception [Mon Mar 19 15:12:22 2018]. From GameSpider.py --> run : 0021101163
+
+Exception [Mon Mar 19 15:12:23 2018]. From GameSpider.py --> run : 0021101164
+
+Exception [Mon Mar 19 15:12:25 2018]. From GameSpider.py --> run : 0021101165
+
+Exception [Mon Mar 19 15:12:27 2018]. From GameSpider.py --> run : 0021101166
+
+Exception [Mon Mar 19 15:12:29 2018]. From GameSpider.py --> run : 0021101167
+
+Exception [Mon Mar 19 15:12:32 2018]. From GameSpider.py --> run : 0021101168
+
+Exception [Mon Mar 19 15:12:34 2018]. From GameSpider.py --> run : 0021101169
+
+Exception [Mon Mar 19 15:12:36 2018]. From GameSpider.py --> run : 0021101170
+
+Exception [Mon Mar 19 15:12:38 2018]. From GameSpider.py --> run : 0021101171
+
+Exception [Mon Mar 19 15:12:40 2018]. From GameSpider.py --> run : 0021101172
+
+Exception [Mon Mar 19 15:12:42 2018]. From GameSpider.py --> run : 0021101173
+
+Exception [Mon Mar 19 15:12:44 2018]. From GameSpider.py --> run : 0021101174
+
+Exception [Mon Mar 19 15:12:47 2018]. From GameSpider.py --> run : 0021101175
+
+Exception [Mon Mar 19 15:12:48 2018]. From GameSpider.py --> run : 0021101176
+
+Exception [Mon Mar 19 15:12:50 2018]. From GameSpider.py --> run : 0021101177
+
+Exception [Mon Mar 19 15:12:52 2018]. From GameSpider.py --> run : 0021101178
+
+Exception [Mon Mar 19 15:12:56 2018]. From GameSpider.py --> run : 0021101179
+
+Exception [Mon Mar 19 15:12:59 2018]. From GameSpider.py --> run : 0021101180
+
+Exception [Mon Mar 19 15:13:01 2018]. From GameSpider.py --> run : 0021101181
+
+Exception [Mon Mar 19 15:13:02 2018]. From GameSpider.py --> run : 0021101182
+
+Exception [Mon Mar 19 15:13:04 2018]. From GameSpider.py --> run : 0021101183
+
+Exception [Mon Mar 19 15:13:06 2018]. From GameSpider.py --> run : 0021101184
+
+Exception [Mon Mar 19 15:13:08 2018]. From GameSpider.py --> run : 0021101185
+
+Exception [Mon Mar 19 15:13:10 2018]. From GameSpider.py --> run : 0021101186
+
+Exception [Mon Mar 19 15:13:11 2018]. From GameSpider.py --> run : 0021101187
+
+Exception [Mon Mar 19 15:13:15 2018]. From GameSpider.py --> run : 0021101188
+
+Exception [Mon Mar 19 15:13:17 2018]. From GameSpider.py --> run : 0021101189
+
+Exception [Mon Mar 19 15:13:18 2018]. From GameSpider.py --> run : 0021101190
+
+Exception [Mon Mar 19 15:13:20 2018]. From GameSpider.py --> run : 0021101191
+
+Exception [Mon Mar 19 15:13:22 2018]. From GameSpider.py --> run : 0021101192
+
+Exception [Mon Mar 19 15:13:23 2018]. From GameSpider.py --> run : 0021101193
+
+Exception [Mon Mar 19 15:13:25 2018]. From GameSpider.py --> run : 0021101194
+
+Exception [Mon Mar 19 15:13:27 2018]. From GameSpider.py --> run : 0021101195
+
+Exception [Mon Mar 19 15:13:29 2018]. From GameSpider.py --> run : 0021101196
+
+Exception [Mon Mar 19 15:13:31 2018]. From GameSpider.py --> run : 0021101197
+
+Exception [Mon Mar 19 15:13:35 2018]. From GameSpider.py --> run : 0021101198
+
+Exception [Mon Mar 19 15:13:38 2018]. From GameSpider.py --> run : 0021101199
+
+Exception [Mon Mar 19 15:13:39 2018]. From GameSpider.py --> run : 0021101200
+
+Exception [Mon Mar 19 15:13:42 2018]. From GameSpider.py --> run : 0021101201
+
+Exception [Mon Mar 19 15:13:44 2018]. From GameSpider.py --> run : 0021101202
+
+Exception [Mon Mar 19 15:13:46 2018]. From GameSpider.py --> run : 0021101203
+
+Exception [Mon Mar 19 15:13:47 2018]. From GameSpider.py --> run : 0021101204
+
+Exception [Mon Mar 19 15:13:49 2018]. From GameSpider.py --> run : 0021101205
+
+Exception [Mon Mar 19 15:13:51 2018]. From GameSpider.py --> run : 0021101206
+
+Exception [Mon Mar 19 15:13:52 2018]. From GameSpider.py --> run : 0021101207
+
+Exception [Mon Mar 19 15:13:54 2018]. From GameSpider.py --> run : 0021101208
+
+Exception [Mon Mar 19 15:13:56 2018]. From GameSpider.py --> run : 0021101209
+
+Exception [Mon Mar 19 15:13:58 2018]. From GameSpider.py --> run : 0021101210
+
+Exception [Mon Mar 19 15:14:01 2018]. From GameSpider.py --> run : 0021101211
+
+Exception [Mon Mar 19 15:14:04 2018]. From GameSpider.py --> run : 0021101212
+
+Exception [Mon Mar 19 15:14:05 2018]. From GameSpider.py --> run : 0021101213
+
+Exception [Mon Mar 19 15:14:07 2018]. From GameSpider.py --> run : 0021101214
+
+Exception [Mon Mar 19 15:14:09 2018]. From GameSpider.py --> run : 0021101215
+
+Exception [Mon Mar 19 15:14:11 2018]. From GameSpider.py --> run : 0021101216
+
+Exception [Mon Mar 19 15:14:13 2018]. From GameSpider.py --> run : 0021101217
+
+Exception [Mon Mar 19 15:14:15 2018]. From GameSpider.py --> run : 0021101218
+
+Exception [Mon Mar 19 15:14:16 2018]. From GameSpider.py --> run : 0021101219
+
+Exception [Mon Mar 19 15:14:18 2018]. From GameSpider.py --> run : 0021101220
+
+Exception [Mon Mar 19 15:14:20 2018]. From GameSpider.py --> run : 0021101221
+
+Exception [Mon Mar 19 15:14:21 2018]. From GameSpider.py --> run : 0021101222
+
+Exception [Mon Mar 19 15:14:23 2018]. From GameSpider.py --> run : 0021101223
+
+Exception [Mon Mar 19 15:14:26 2018]. From GameSpider.py --> run : 0021101224
+
+Exception [Mon Mar 19 15:14:28 2018]. From GameSpider.py --> run : 0021101225
+
+Exception [Mon Mar 19 15:14:30 2018]. From GameSpider.py --> run : 0021101226
+
+Exception [Mon Mar 19 15:14:31 2018]. From GameSpider.py --> run : 0021101227
+
+Exception [Mon Mar 19 15:14:33 2018]. From GameSpider.py --> run : 0021101228
+
+Exception [Mon Mar 19 15:14:35 2018]. From GameSpider.py --> run : 0021101229
+
+Exception [Mon Mar 19 15:14:36 2018]. From GameSpider.py --> run : 0021101230
+
+Exception [Mon Mar 19 15:16:34 2018]. From GameSpider.py --> run : 0021201214
+
